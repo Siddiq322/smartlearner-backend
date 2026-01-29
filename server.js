@@ -19,6 +19,7 @@ app.use(cors({
     'http://localhost:8082',
     'https://smartlearner-frontend.vercel.app',
     'https://smartlearner-frontend.netlify.app',
+    'https://smartlearner-5660.onrender.com',
     /\.vercel\.app$/,
     /\.netlify\.app$/,
     /\.onrender\.com$/
