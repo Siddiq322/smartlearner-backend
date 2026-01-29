@@ -20,7 +20,8 @@ app.use(cors({
     'https://smartlearner-frontend.vercel.app',
     'https://smartlearner-frontend.netlify.app',
     /\.vercel\.app$/,
-    /\.netlify\.app$/
+    /\.netlify\.app$/,
+    /\.onrender\.com$/
   ],
   credentials: true
 }));
